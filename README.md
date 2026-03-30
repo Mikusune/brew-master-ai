@@ -66,7 +66,8 @@ npm install
 npm run dev
 ```
 
-📂 Project Structure
+## 📂 Project Structure
+```bash
 brew-master/
 ├── backend/
 │   ├── main.py              # Logika API FastAPI & Database SQLAlchemy
@@ -76,8 +77,9 @@ brew-master/
     ├── src/app/page.tsx     # Antarmuka Utama & Logika Frontend
     ├── tailwind.config.ts   # Konfigurasi warna kustom (Coffee Theme)
     └── package.json         # Daftar library Node.js
+```
 
-💡 System Prompt (The Secret Sauce)
+## 💡 System Prompt (The Secret Sauce)
 AI dalam aplikasi ini diinstruksikan sebagai Master Barista Champion. Ia tidak hanya menjawab pertanyaan umum, tetapi memberikan solusi teknis berdasarkan variabel ekstraksi kopi seperti:
 
 Menyarankan penurunan suhu untuk Dark Roast.
