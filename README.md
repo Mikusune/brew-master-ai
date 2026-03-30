@@ -57,12 +57,14 @@ source venv/bin/activate
 
 pip install -r requirements.txt
 uvicorn main:app --reload
+```
 
 ### 4. Instalasi Frontend  
 ```bash
 cd frontend
 npm install
 npm run dev
+```
 
 📂 Project Structure
 brew-master/
