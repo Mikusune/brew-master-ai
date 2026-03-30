@@ -87,3 +87,6 @@ Menyarankan penurunan suhu untuk Dark Roast.
 Menyarankan gilingan lebih kasar jika rasa terlalu bitter pada metode V60.
 
 Menghitung kecukupan rasio air dan kopi secara otomatis.
+
+## 📸 Preview
+![BrewMaster Form](ss/brewmaster.PNG)
