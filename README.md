@@ -90,3 +90,4 @@ Menghitung kecukupan rasio air dan kopi secara otomatis.
 
 ## 📸 Preview
 ![BrewMaster Form](ss/brewmaster.PNG)
+![BrewMaster Form](ss/brewmaster1.PNG)
